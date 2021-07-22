@@ -1,2 +1,0 @@
-# GGITT
-HEY world
